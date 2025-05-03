@@ -6,7 +6,7 @@
 pip install -r requirements.txt
 ```
 
-## Запуск
+## Запуск застосунку
 ```sh
 python -m src.main
 ```
